@@ -1,0 +1,19 @@
+# Compilação Java
+out/
+bin/
+target/
+*.class
+*.jar
+
+# IDEs e Editores
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema Operacional e Ambiente
+.DS_Store
+Thumbs.db
+.env
